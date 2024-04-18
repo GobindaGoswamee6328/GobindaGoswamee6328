@@ -11,15 +11,9 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gobindagoswamee63282&label=Profile%20views&color=0e75b6&style=flat" alt="gobindagoswamee6328" /> </p>
 
-- 🔭 I’m currently working on **Machine learning**
+- 🔭 I’m currently working on **Web Technology**
 
-- 🌱 I’m currently learning **Html, Css, Javascript and Reactjs**
-
-- 👯 I’m looking to collaborate on **Software & AI Projects**
-
-- 🤝 I’m looking for help with **Artificial Intelligence**
-
-- 💬 Ask me about **C++, JAVA, C#, MySql and DSA**
+- 🌱 I’m currently learning **Html, PHP, CSS, Javascript**
 
 - 📫 How to reach me **gobindagoswamee@gmail.com**
 
